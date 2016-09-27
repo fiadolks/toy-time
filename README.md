@@ -3,7 +3,7 @@ A simple repo for educational purposes
 
 # Topics Covered
 
-# Code Related
+## Code Related
 * Version Control
 * Branching/Merging
 * Building/Compiling/Deploying
@@ -14,35 +14,35 @@ A simple repo for educational purposes
 * Dependency Management
 * Debugging/Troubleshooting/Static Analysis
 
-- Applications
+## Applications
 * Console Apps
 * Desktop Apps
 
-- Security
+## Security
 * SQL Injection
 * Cross Site Scripting
 * Encyrption/Decryption
 * Hashing/Checksumming
 
-- Web/Internet/Cloud
+## Web/Internet/Cloud
 * Servers vs Cloud Servers
 * HTTP/CSS
 * REST Architecture
 * Web Applications
 * DNS, IP, Hostnames
 
-- Database and Persistance
+## Database and Persistance
 * Schema vs Schema-less
 * Relational Databases
 * NoSQL Databases
 
-# Testing
+## Testing
 * Unit Testing
 * Integration Testing
 * Regression Testing
 * Whitebox vs Blackbox Testing
 
-# Project Management
+## Project Management
 * Requirements
 * Backlog Grooming
 * Pointing and Velocity
